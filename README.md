@@ -5,5 +5,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumit18cs&repo=connectkgp)](https://github.com/sumit18cs/connectkgp)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumit18cs&repo=Infrasound)](https://github.com/sumit18cs/Infrasound)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumit18cs&layout=compact)](https://github.com/sumit18cs/Introduction)
 
